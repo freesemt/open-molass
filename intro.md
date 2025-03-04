@@ -1,8 +1,8 @@
 # Welcome to Open MOLASS Website
 
-This site is under construction.
+<font color="orange">WARNING: This site is under construction!</font>
 
-Open MOLASS is a re-write of MOLASS currently ported at [Photon Factory](https://pfwww.kek.jp/saxs/MOLASS.html).
+Open MOLASS is a rewrite of [MOLASS](https://www.jstage.jst.go.jp/article/biophysico/20/1/20_e200001/_article) currently ported at [Photon Factory](https://pfwww.kek.jp/saxs/MOLASS.html), designed to be suited for scripting in Jupyter notebooks utilizing Python ecosystem.
 
 Check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
